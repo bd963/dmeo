@@ -5,6 +5,6 @@ public class test {
 		System.out.println("测试");
 		System.out.println("demo");
 		System.out.println("测试提交后修改");
-		System.out.println("远程库修改");
+		System.out.println("测试远程库修改");
 	}
 }
